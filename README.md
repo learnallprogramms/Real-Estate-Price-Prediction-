@@ -1,4 +1,4 @@
-# Real Estate Price Prediction Website
+# Real Estate Price Prediction
 
 This project implements a machine learning model to predict real estate prices in Bangalore, India.
 
@@ -17,5 +17,3 @@ This project implements a machine learning model to predict real estate prices i
 - Matplotlib for data visualization
 - Scikit-learn for model building
 - Jupyter Notebook for development and documentation
-
-## Project Structure
