@@ -1,2 +1,21 @@
-# Real-Estate-Price-Prediction-
-A machine learning-based real estate price prediction model for Bangalore, India, utilizing sklearn and linear regression to forecast prices based on key property features. This predictive model leverages data science techniques to analyze and learn from historical data, providing accurate price estimations for potential buyers and sellers.
+# Real Estate Price Prediction Website
+
+This project implements a machine learning model to predict real estate prices in Bangalore, India.
+
+## Project Overview
+
+1. **Data Science Model**: 
+   - Built using sklearn and linear regression
+   - Dataset: Bangalore home prices from Kaggle
+   - Includes data cleaning, outlier detection/removal, feature engineering, and dimensionality reduction
+   - Utilizes GridSearchCV for hyperparameter tuning and k-fold cross-validation
+
+## Technologies Used
+
+- Python
+- NumPy and Pandas for data manipulation
+- Matplotlib for data visualization
+- Scikit-learn for model building
+- Jupyter Notebook for development and documentation
+
+## Project Structure
